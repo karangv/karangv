@@ -1,5 +1,5 @@
-Hi 👋, I'm Karan Vellathottam
-Third-year Computer Science student at Northeastern University
+## Hi 👋, I'm Karan Vellathottam
+
 
 ---
 
