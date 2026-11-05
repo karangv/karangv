@@ -1,16 +1,16 @@
 # <p align="center">Hi 👋, I'm Karan Vellathottam</p>
 
 ## 👨‍💻 About Me
-I'm a third-year CS student at Northeastern University (GPA 3.52, graduating May 2028), passionate about building AI and machine learning systems that solve real-world problems. I'm the sole TA for Intro to Computer Science Research, grading work and giving written feedback for 32 students, and a Technical Product Manager at Code4Community, where I lead an 11-person team of developers and designers building software for nonprofits. Before university, I served as a Third Sergeant in the Singapore Army, leading a 15-person team in a signals and intelligence battalion.
+I'm a third-year CS student at Northeastern University passionate about building AI and machine learning systems that solve real-world problems. Lately that's meant researching deep reinforcement learning architectures. Outside of that, I'm a TPM at Code4Community building software for nonprofits around Boston.
 
 ---
 
 ## 🚀 What I am up to
 - 🌱 **Currently learning:**
   - Multimodal LLMs
-  - Adversarial machine learning
-  - Natural language processing
-- 🔭 **Looking for:** a Spring 2027 software engineering / ML co-op (January - June 2027)
+  - Adversarial Machine Learning
+  - Deep Reinforcement Learning
+- 🔭 **Looking for:** a Spring 2027 software engineering / ML / TPM co-op (January - June 2027)
 
 ---
 
